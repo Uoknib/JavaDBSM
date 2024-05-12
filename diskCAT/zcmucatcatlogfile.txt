@@ -1,0 +1,14 @@
+create database five;~Sun May 12 17:19:28 CST 2024
+create table two ( tid int not null, tname char(10) );~Sun May 12 17:21:12 CST 2024
+create table oo();~Sun May 12 17:23:21 CST 2024
+create table oo(age int);~Sun May 12 17:24:17 CST 2024
+create table abc(name char(10),id int not null);~Sun May 12 17:25:05 CST 2024
+create user kk 123;~Sun May 12 18:19:13 CST 2024
+create user tt 123;~Sun May 12 18:19:20 CST 2024
+create database oo;~Sun May 12 18:20:11 CST 2024
+drop database oo;~Sun May 12 18:20:17 CST 2024
+drop user tt;~Sun May 12 18:26:03 CST 2024
+create user duser 123;~Sun May 12 18:27:07 CST 2024
+grant drop to duser;~Sun May 12 18:27:27 CST 2024
+create user iuser 123;~Sun May 12 18:32:37 CST 2024
+grant insert to iuser;~Sun May 12 18:32:50 CST 2024

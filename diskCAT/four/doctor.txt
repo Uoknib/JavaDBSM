@@ -1,0 +1,4 @@
+name~age~
+char(10)~int~
+not null~not null~
+tom~12~

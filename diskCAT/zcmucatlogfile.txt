@@ -1,0 +1,5 @@
+create user zcmucatcat 123456;~Sun May 12 16:44:17 CST 2024
+create table doctor (name char(10) not null,age int not null);~Sun May 12 16:49:52 CST 2024
+drop database oo;~Sun May 12 18:22:55 CST 2024
+create database oo;~Sun May 12 18:23:11 CST 2024
+drop user kk;~Sun May 12 18:24:30 CST 2024

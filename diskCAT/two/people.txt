@@ -1,0 +1,10 @@
+pid~pname~
+int~char(10)~
+not null~not null~
+1~john~
+2~sck~
+3~zcmucat~
+4~catcat~
+~qf~
+4~lan~
+5~lilei~
